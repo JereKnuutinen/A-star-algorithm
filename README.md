@@ -1,2 +1,2 @@
-# A-start-algorithm
+# A-star-algorithm
 A* algorithm with vizualizations
